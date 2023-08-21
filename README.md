@@ -4,7 +4,11 @@ This is the repository that contains the code for pattern-matching for functions
 
 ## Examples
 
-- [Simple recursion](./exmaples/recursion/README.md)
+1. [Simple recursion](./exmaples/recursion/README.md)
+
+## Future steps
+
+- Add typing capability for pattern-matching functions
 
 ## License
 
